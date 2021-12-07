@@ -1,0 +1,4 @@
+REPOSITORY               TAG       IMAGE ID       CREATED          SIZE
+fjorny/ubuntu-tmp-file   latest    65ddc4a0bb1e   56 seconds ago   63.1MB
+ubuntu                   18.04     5a214d77f5d7   2 months ago     63.1MB
+hello-world              latest    feb5d9fea6a5   2 months ago     13.3kB
